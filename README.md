@@ -27,7 +27,7 @@
   <img align="center" alt="Neres-CSS" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <br/>
   <br/>
-    ![Snake animation](https://github.com/joaovneres/joaovneres/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joaovneres/joaovneres/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   ##
