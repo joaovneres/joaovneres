@@ -1,9 +1,7 @@
 ### Hi/Salut/Oi, eu sou o João Neres, bem-vindo(a) ao meu perfil do GitHub.
 
-- 🌱 Estudando SpringBoot
 - 📫 Contate-me no email: victorsousa247@gmail.com
-- 😄 Pronomes: Ele/Dele
-- 🎒 Cursando Sistemas para Internet. 4° Semestre.
+- 🎒 Cursando Sistemas para Internet. 5° Semestre.
 <div>
   <a href="https://github.com/joaovneres">
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=joaovneres&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
