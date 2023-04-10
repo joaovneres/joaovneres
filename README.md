@@ -1,4 +1,4 @@
-### Hi/Salut/Oi, eu sou o João Neres, bem-vindo(a) ao meu perfil do GitHub.
+### Oi, eu sou o João Neres, bem-vindo(a) ao meu perfil do GitHub.
 
 - 📫 Contate-me no email: victorsousa247@gmail.com
 - 🎒 Cursando Sistemas para Internet. 5° Semestre.
@@ -31,9 +31,7 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/joaovneres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://github.com/joaovneres" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victorsousa247@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jvneres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/joaovneres" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>
+  </div>
