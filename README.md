@@ -4,7 +4,6 @@
 - 🎒 Cursando Sistemas para Internet. 5° Semestre.
 <div>
   <a href="https://github.com/joaovneres">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=joaovneres&rank_icon=github&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovneres&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
