@@ -1,7 +1,7 @@
 ### Oi, eu sou o João Neres, bem-vindo(a) ao meu perfil do GitHub.
 
 - 📫 Contate-me no email: victorsousa247@gmail.com
-- 🎒 Cursando Sistemas para Internet. 5° Semestre.
+- 🎒 Cursando Sistemas para Internet. 6° Semestre.
 <div>
   <a href="https://github.com/joaovneres">
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovneres&layout=compact&langs_count=7&theme=codeSTACKr"/>
